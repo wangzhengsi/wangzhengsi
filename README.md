@@ -10,9 +10,6 @@
 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你+瞅+啥+?;再+看+一+眼+试+试?)](https://git.io/typing-svg)
-
 
 
 
